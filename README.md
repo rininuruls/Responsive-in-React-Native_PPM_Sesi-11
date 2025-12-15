@@ -22,23 +22,24 @@ sebagai media penyimpanan data lokal.
 
 ## 📁 Struktur Folder Project
 
+```text
 RN-EXPO-SQLITE-MAIN
 ├── .expo
 ├── .vscode
 ├── app
-│ ├── components
-│ │ └── TodoList.tsx
-│ ├── services
-│ │ └── todoService.ts
-│ ├── _layout.tsx
-│ └── index.tsx
+│   ├── components
+│   │   └── TodoList.tsx
+│   ├── services
+│   │   └── todoService.ts
+│   ├── _layout.tsx
+│   └── index.tsx
 ├── assets
 ├── node_modules
 ├── app.json
 ├── package.json
 ├── tsconfig.json
 └── README.md
-
+```
 ---
 
 ## 🛠️ Teknologi yang Digunakan

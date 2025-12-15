@@ -102,4 +102,6 @@ yang memiliki struktur sebagai berikut:
 
 Nama : Salwa Aprilia Santi
 
+NIM: 20230040141
+
 Kelas: TI23F

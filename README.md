@@ -17,29 +17,7 @@ sebagai media penyimpanan data lokal.
 - ⏳ Menampilkan todo yang belum selesai (Undone)
 - 📋 Menampilkan seluruh data todo (All)
 - 💾 Penyimpanan data secara lokal menggunakan SQLite
-
----
-
-## 📁 Struktur Folder Project
-
-```text
-RN-EXPO-SQLITE-MAIN
-├── .expo
-├── .vscode
-├── app
-│   ├── components
-│   │   └── TodoList.tsx
-│   ├── services
-│   │   └── todoService.ts
-│   ├── _layout.tsx
-│   └── index.tsx
-├── assets
-├── node_modules
-├── app.json
-├── package.json
-├── tsconfig.json
-└── README.md
-```
+- 
 ---
 
 ## 🛠️ Teknologi yang Digunakan
@@ -57,8 +35,8 @@ RN-EXPO-SQLITE-MAIN
 1. Clone repository
 
 ```bash
-git clone https://github.com/salwaaprsn/ToDoList.git
-cd RN-EXPO-SQLITE-MAIN
+git clone https://github.com/salwaaprsn/ToDoList.git](https://github.com/aminatulmaimuna/Pemoggraman-Prangkat-Mobile-11.git
+cd ToDoList
 ```
 
 2. Install dependency
@@ -72,13 +50,6 @@ npm install
 ```bash
 npx expo start
 ```
-
-4. Pilih metode:
-
-- Tekan `a` untuk Android Emulator
-- Tekan `w` untuk Web Browser
-- Scan QR Code untuk menjalankan di perangkat fisik
-
 ---
 
 ## 🗃️ Perancangan Database
@@ -92,16 +63,6 @@ yang memiliki struktur sebagai berikut:
 
 ---
 
-## 🔗 Link Terkait
-
-- **Video Demonstrasi:** [Tonton Demo](https://drive.google.com/drive/folders/18ssKoNB4Lmg9RsoGWoqn0i4u0Ejz3z3G)
-
----
-
 ## 👩‍💻 Author
 
-Nama : Salwa Aprilia Santi
-
-NIM: 20230040141
-
-Kelas: TI23F
+Nama : Aminatul Maimunah

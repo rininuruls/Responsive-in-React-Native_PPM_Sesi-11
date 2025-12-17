@@ -35,7 +35,7 @@ sebagai media penyimpanan data lokal.
 1. Clone repository
 
 ```bash
-git clone https://github.com/salwaaprsn/ToDoList.git](https://github.com/aminatulmaimuna/Pemoggraman-Prangkat-Mobile-11.git
+git clone https://github.com/aminatulmaimuna/Pemoggraman-Prangkat-Mobile-11.git
 cd ToDoList
 ```
 

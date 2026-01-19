@@ -65,4 +65,4 @@ yang memiliki struktur sebagai berikut:
 
 ## 👩‍💻 Author
 
-Nama : Aminatul Maimunah
+Nama : Rini Nurulsona
